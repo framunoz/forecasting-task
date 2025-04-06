@@ -13,7 +13,10 @@ dependencies = [
     "netcdf4>=1.7.2",
     "numpy>=2.2.4",
     "pandas>=2.2.3",
+    "pillow>=11.2.0",
+    "seaborn>=0.13.2",
     "setuptools>=78.1.0",
+    "statsmodels>=0.14.4",
     "xarray>=2025.3.1",
 ]
 
