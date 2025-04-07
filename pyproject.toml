@@ -8,6 +8,7 @@ dependencies = [
     "earthengine-api>=1.5.9",
     "geemap>=0.35.3",
     "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
     "matplotlib>=3.10.1",
     "missingno>=0.5.2",
     "netcdf4>=1.7.2",
@@ -23,5 +24,6 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "nbstripout>=0.8.1",
     "pre-commit>=4.2.0",
 ]
