@@ -17,6 +17,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "setuptools>=78.1.0",
     "statsmodels>=0.14.4",
+    "tqdm>=4.67.1",
     "xarray>=2025.3.1",
 ]
 
